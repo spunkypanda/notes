@@ -2,7 +2,7 @@
 
 ## Articles
 
-- [Auto-Incrementing IDs: Giving your Data Away](https://phil.tech/http/2015/09/03/auto-incrementing-to-destruction)
+- [Auto-Incrementing IDs: Giving your Data Away - Phil Sturgeon](https://phil.tech/http/2015/09/03/auto-incrementing-to-destruction)
 - [Metrics, tracing, and logging - Peter Bourgon](https://peter.bourgon.org/blog/2017/02/21/metrics-tracing-and-logging.html)
 
 ## Talks
